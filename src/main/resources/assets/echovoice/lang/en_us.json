@@ -1,0 +1,13 @@
+{
+  "itemGroup.echovoice": "Example Mod Tab",
+  "block.echovoice.example_block": "Example Block",
+  "item.echovoice.example_item": "Example Item",
+
+  "echovoice.configuration.title": "Echo Voice Configs",
+  "echovoice.configuration.section.echovoice.common.toml": "Echo Voice Configs",
+  "echovoice.configuration.section.echovoice.common.toml.title": "Echo Voice Configs",
+  "echovoice.configuration.items": "Item List",
+  "echovoice.configuration.logDirtBlock": "Log Dirt Block",
+  "echovoice.configuration.magicNumberIntroduction": "Magic Number Text",
+  "echovoice.configuration.magicNumber": "Magic Number"
+}
