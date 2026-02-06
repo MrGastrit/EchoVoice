@@ -1,4 +1,4 @@
-package com.stereometri.echovoice;
+package stereometric.echovoice;
 
 import net.minecraft.client.Minecraft;
 import net.neoforged.api.distmarker.Dist;

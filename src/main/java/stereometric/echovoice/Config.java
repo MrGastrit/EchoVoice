@@ -1,4 +1,4 @@
-package com.stereometri.echovoice;
+package stereometric.echovoice;
 
 import java.util.List;
 
